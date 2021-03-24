@@ -6,9 +6,9 @@ I constantly try to learn and solve problems. I love that. ❤️
 
 ### **"Never stop learning"** 👨🏽‍💻
 
-📍Ceará, Brazil.
-🌱 I’m currently learning React Native and ReactJs.
- 📫 How to reach me : caioanderson022@gmail.com.
+- 📍Ceará, Brazil.
+- 🌱 I’m currently learning React Native and ReactJs.
+- 📫 How to reach me : caioanderson022@gmail.com.
  
  Social media : 👇
 
