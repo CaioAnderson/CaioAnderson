@@ -1,20 +1,15 @@
 # Hi, I am Caio Anderson 👋
 
 I constantly try to learn and solve problems. I love that. ❤️
-
-
-- 📍Ceará, Brazil.
-- 🌱 I’m currently learning React Native and ReactJs.
-- 📫 How to reach me : caioanderson022@gmail.com.
-
-<br>
- 
-<div align='center'>
-  <a href="https://github.com/CaioAnderson">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioAnderson&layout=compact&langs_count=7&theme=dark"/>
-</div>
- 
- <br>
+     
+   <ul>
+      <li>📍Ceará, Brazil. </li>
+      <li>🌱 I’m currently learning React Native and ReactJs. </li>
+      <li>📫 How to reach me : caioanderson022@gmail.com. </li>
+  </ul>
+     
+     
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioAnderson&layout=compact&langs_count=7&theme=dark"/>
 
 Social media: 👇
 
