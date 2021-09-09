@@ -9,7 +9,7 @@ I constantly try to learn and solve problems. I love that. ❤️
 
 <br>
  
-<div>
+<div align='center'>
   <a href="https://github.com/CaioAnderson">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioAnderson&layout=compact&langs_count=7&theme=dark"/>
 </div>
