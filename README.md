@@ -1,6 +1,6 @@
 # Hi, I am Caio Anderson 👋
 
-I am from Ceará, Brazil. I'm currentlyFrontend developer at <a href='https://www.trixlog.com'>@Trixlog</a>
+I am from Ceará, Brazil. I'm currently Frontend developer at <a href='https://www.trixlog.com'>@Trixlog</a>
 
 
 📌 Experience in JavaScript and Typescript. <br />
