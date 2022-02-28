@@ -1,14 +1,18 @@
 # Hi, I am Caio Anderson 👋
 
-I am frontend developer at Trixlog <a href=''https://www.trixlog.com/>@Trixlog</a>
+I am from Ceará, Brazil. I'm currentlyFrontend developer at <a href='https://www.trixlog.com'>@Trixlog</a>
 
-📌 Experience in JavaScript and Typescript <br />
-📌 Experience with Front-End
+
+📌 Experience in JavaScript and Typescript. <br />
+📌 Experience with ReactJS. <br />
+📌 Enthusiast in User Experience(UX) and User Interface (UI). <br />
+📌 Currently evolving in React Native.  <br />
+
   
+### 📫 Get in touch
    <ul>
-      <li>📍Ceará, Brazil. </li>
-      <li>🌱 I’m currently learning React Native and ReactJs. </li>
-      <li>📫 How to reach me : caioanderson022@gmail.com. </li>
+      <li>📧 caioanderson022@gmail.com. </li>
+      <li>🔗 <a href='https://www.linkedin.com/in/caio-anderson/'>Linkedin</a> </li>
   </ul>
      
      
@@ -16,4 +20,4 @@ I am frontend developer at Trixlog <a href=''https://www.trixlog.com/>@Trixlog</
 
 Social media: 👇
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caio-anderson-lima-ferreira-301b36138/)](https://www.linkedin.com/in/caio-anderson-lima-ferreira-301b36138/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_caio_anderson/)](https://www.instagram.com/_caio_anderson/) 
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-red?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_caio_anderson/)](https://www.instagram.com/_caio_anderson/) 
