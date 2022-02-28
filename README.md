@@ -16,7 +16,7 @@ I am from Ceará, Brazil. I'm currently Frontend developer at <a href='https://w
   </ul>
      
      
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioAnderson&layout=compact&langs_count=7&theme=dark"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioAnderson&layout=compact&langs_count=7&theme=dark" />
 
 Social media: 👇
 
