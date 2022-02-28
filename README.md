@@ -1,5 +1,4 @@
 # Hi, I am Caio Anderson 👋
-================================
   
    <ul>
       <li>📍Ceará, Brazil. </li>
