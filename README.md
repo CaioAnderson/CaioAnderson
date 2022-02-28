@@ -1,5 +1,6 @@
 # Hi, I am Caio Anderson 👋
-     
+================================
+  
    <ul>
       <li>📍Ceará, Brazil. </li>
       <li>🌱 I’m currently learning React Native and ReactJs. </li>
