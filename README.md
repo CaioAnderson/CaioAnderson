@@ -1,5 +1,7 @@
 # Hi, I am Caio Anderson 👋
 
+I am frontend developer at Trixlog <a href=''https://www.trixlog.com/>@Trixlog</a>
+
 📌 Experience in JavaScript and Typescript <br />
 📌 Experience with Front-End
   
