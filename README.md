@@ -1,4 +1,7 @@
 # Hi, I am Caio Anderson 👋
+
+📌 Experience in JavaScript and Typescript
+📌 Experience with Front-End
   
    <ul>
       <li>📍Ceará, Brazil. </li>
