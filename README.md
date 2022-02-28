@@ -1,6 +1,6 @@
 # Hi, I am Caio Anderson 👋
 
-📌 Experience in JavaScript and Typescript
+📌 Experience in JavaScript and Typescript <br />
 📌 Experience with Front-End
   
    <ul>
