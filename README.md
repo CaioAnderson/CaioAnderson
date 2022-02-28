@@ -1,6 +1,4 @@
 # Hi, I am Caio Anderson 👋
-
-I constantly try to learn and solve problems. I love that. ❤️
      
    <ul>
       <li>📍Ceará, Brazil. </li>
