@@ -1,7 +1,7 @@
 Hi 👋 My name is Caio Andeson
 =====================
 
-I'm currently Frontend developer at <a href='https://www.trixlog.com'>@Trixlog</a>
+I'm currently Frontend Developer at <a href='https://www.trixlog.com'>@Trixlog</a>
 -----------------------------------
 
 * 🌍  I'm based in Ceará, Brazil.
