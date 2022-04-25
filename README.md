@@ -1,14 +1,15 @@
-# Hi, I am Caio Anderson 👋
+Hi 👋 My name is Caio
+=====================
 
-I am from Ceará, Brazil. I'm currently Frontend developer at <a href='https://www.trixlog.com'>@Trixlog</a>
+I'm currently Frontend developer at <a href='https://www.trixlog.com'>@Trixlog</a>
+-----------------------------------
 
+* 🌍  I'm based in Ceará, Brazil.
+* 📌 Experience in JavaScript and Typescript with ReactJS and Vue.
+* ✉️  You can contact me at [caioanderson022@gmail.com](mailto:caioanderson022@gmail.com)
+* 🧠  I'm learning React Native. Enthusiast in User Experience(UX) and User Interface (UI). 
+* ⚡  I constantly try to learn and solve problems. I love that. ❤️
 
-📌 Experience in JavaScript and Typescript. <br />
-📌 Experience with ReactJS. <br />
-📌 Enthusiast in User Experience(UX) and User Interface (UI). <br />
-📌 Currently evolving in React Native.  <br />
-
-  
 ### Skills
 
 <p align="left">
