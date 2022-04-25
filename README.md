@@ -1,4 +1,4 @@
-Hi 👋 My name is Caio
+Hi 👋 My name is Caio Andeson
 =====================
 
 I'm currently Frontend developer at <a href='https://www.trixlog.com'>@Trixlog</a>
